@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3eecc57-64c6-46cf-b026-fd18c0f20a78" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/clipspy/version.py" beforeDir="false" afterPath="$PROJECT_DIR$/clipspy/version.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/iclips" />
+  </component>
+  <component name="ProjectId" id="1bkkR1poZVantjqJAPf5mUNvYlB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/game" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/game" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="gui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProiectSBC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.gui" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3eecc57-64c6-46cf-b026-fd18c0f20a78" name="Default Changelist" comment="" />
+      <created>1589183466155</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589183466155</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="609" y="341" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589222186641">
+      <screen x="0" y="23" width="1792" height="1022" />
+    </state>
+    <state x="609" y="341" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1022@0.23.1792.1022" timestamp="1589222186641" />
+    <state width="1899" height="290" key="GridCell.Tab.0.bottom" timestamp="1589190353452">
+      <screen x="1792" y="99" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="290" key="GridCell.Tab.0.bottom/1792.99.1920.1057/0.23.1792.1015/3712.23.1920.1057@1792.99.1920.1057" timestamp="1589190353452" />
+    <state width="1899" height="290" key="GridCell.Tab.0.center" timestamp="1589190353451">
+      <screen x="1792" y="99" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="290" key="GridCell.Tab.0.center/1792.99.1920.1057/0.23.1792.1015/3712.23.1920.1057@1792.99.1920.1057" timestamp="1589190353451" />
+    <state width="1899" height="290" key="GridCell.Tab.0.left" timestamp="1589190353451">
+      <screen x="1792" y="99" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="290" key="GridCell.Tab.0.left/1792.99.1920.1057/0.23.1792.1015/3712.23.1920.1057@1792.99.1920.1057" timestamp="1589190353451" />
+    <state width="1899" height="290" key="GridCell.Tab.0.right" timestamp="1589190353451">
+      <screen x="1792" y="99" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="290" key="GridCell.Tab.0.right/1792.99.1920.1057/0.23.1792.1015/3712.23.1920.1057@1792.99.1920.1057" timestamp="1589190353451" />
+    <state x="2258" y="266" key="SettingsEditor" timestamp="1589184268705">
+      <screen x="1792" y="99" width="1920" height="1057" />
+    </state>
+    <state x="2258" y="266" key="SettingsEditor/1792.99.1920.1057/0.23.1792.1009/3712.23.1920.1057@1792.99.1920.1057" timestamp="1589184268705" />
+    <state x="2358" y="215" width="782" height="825" key="find.popup" timestamp="1589192067228">
+      <screen x="1792" y="99" width="1920" height="1057" />
+    </state>
+    <state x="2358" y="215" width="782" height="825" key="find.popup/1792.99.1920.1057/0.23.1792.1015/3712.23.1920.1057@1792.99.1920.1057" timestamp="1589192067228" />
+    <state x="2414" y="334" width="670" height="676" key="search.everywhere.popup" timestamp="1589215014547">
+      <screen x="1792" y="99" width="1920" height="1057" />
+    </state>
+    <state x="2414" y="334" width="670" height="676" key="search.everywhere.popup/1792.99.1920.1057/0.23.1792.1015/3712.23.1920.1057@1792.99.1920.1057" timestamp="1589215014547" />
+  </component>
+</project>
